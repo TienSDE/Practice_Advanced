@@ -1,0 +1,25 @@
+Name: Animation
+Type: FolderType
+Children:
+- Name: Variable1
+  Id: g=a9c4b8179134ec33c6ca759c7a6f5fc4
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Variable1Changed
+  Type: VariableChangedEventDispatcher
+  Children:
+  - Name: VariableNodePath
+    Type: BaseVariableType
+    DataType: NodePath
+    Value: "../Variable1"
+- Name: Variable2
+  Id: g=2721f46f6de14729b748789daf3fbb64
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Variable3
+  Id: g=3afc57ec6eddafb57aeb21ff79f57e7b
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0

@@ -1,0 +1,39 @@
+Name: Indexing
+Id: g=c89a1bd912abb2d2a93b3f1e5ba9a9b0
+Type: FolderType
+Children:
+- Name: Variable1
+  Id: g=6297109debe92eff002f4a2efa243a04
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 1
+- Name: Variable2
+  Id: g=42e73e81c5949dbfb170f9ce93167571
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 2
+- Name: Variable3
+  Id: g=4d6e9ba1cd1f1d692f335c932cebb6af
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 3
+- Name: LED1
+  Id: g=843490df06ebf2b38f43aef3bd69f1bd
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
+- Name: LED2
+  Id: g=c09623b6e1fee21d6aec227a55252504
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
+- Name: LED3
+  Id: g=26b82baadaaa8c0b7cf8f015fe38e459
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
+- Name: Variable4
+  Id: g=98bacab12ca262f03491fcdaaff4cda0
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 4
