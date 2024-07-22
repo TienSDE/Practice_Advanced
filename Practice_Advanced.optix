@@ -34,10 +34,10 @@ Project:
    Module: FTOptix.Report
    Version: 3.0
  Statistics:
-  TotalNodeCount: 925
-  Objects: 226
+  TotalNodeCount: 931
+  Objects: 227
   ObjectTypes: 9
-  Variables: 690
+  Variables: 695
   VariableTypes: 0
   DataTypes: 0
   Methods: 0
