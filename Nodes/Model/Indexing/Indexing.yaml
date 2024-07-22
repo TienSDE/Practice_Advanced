@@ -21,17 +21,14 @@ Children:
   Id: g=843490df06ebf2b38f43aef3bd69f1bd
   Type: BaseDataVariableType
   DataType: Boolean
-  Value: false
 - Name: LED2
   Id: g=c09623b6e1fee21d6aec227a55252504
   Type: BaseDataVariableType
   DataType: Boolean
-  Value: false
 - Name: LED3
   Id: g=26b82baadaaa8c0b7cf8f015fe38e459
   Type: BaseDataVariableType
   DataType: Boolean
-  Value: false
 - Name: Variable4
   Id: g=98bacab12ca262f03491fcdaaff4cda0
   Type: BaseDataVariableType

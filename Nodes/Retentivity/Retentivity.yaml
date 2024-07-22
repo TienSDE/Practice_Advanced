@@ -10,12 +10,11 @@ Children:
     - Name: Node1
       Type: NodePointer
       DataType: NodeId
-      Value: {"IdType":2,"Id":"69b63ec1680bb66226168ed8c16521a0","Namespace":7}
+      Value: "/Objects/Practice_Advanced/Security"
       Children:
       - Name: Kind
         Type: PropertyType
         DataType: NodeId
-        Value: {"IdType":0,"Id":0,"Namespace":-1}
       - Name: NodeClass
         Type: PropertyType
         DataType: NodePointerNodeClass
@@ -24,7 +23,6 @@ Children:
     Type: BaseDataVariableType
     DataType: Duration
     ReferenceType: HasProperty
-    Value: "0:00:00:0.0000000"
   - Name: DeltaObserverEnabled
     Type: BaseDataVariableType
     DataType: Boolean
@@ -39,12 +37,11 @@ Children:
     - Name: Node1
       Type: NodePointer
       DataType: NodeId
-      Value: {"IdType":2,"Id":"3293e7cd8de0bb06cc725e017a984470","Namespace":7}
+      Value: "/Objects/Practice_Advanced/Alarms"
       Children:
       - Name: Kind
         Type: PropertyType
         DataType: NodeId
-        Value: {"IdType":0,"Id":0,"Namespace":-1}
       - Name: NodeClass
         Type: PropertyType
         DataType: NodePointerNodeClass
@@ -53,7 +50,6 @@ Children:
     Type: BaseDataVariableType
     DataType: Duration
     ReferenceType: HasProperty
-    Value: "0:00:00:0.0000000"
   - Name: DeltaObserverEnabled
     Type: BaseDataVariableType
     DataType: Boolean
@@ -68,12 +64,11 @@ Children:
     - Name: Node1
       Type: NodePointer
       DataType: NodeId
-      Value: {"IdType":2,"Id":"c89a1bd912abb2d2a93b3f1e5ba9a9b0","Namespace":7}
+      Value: "/Objects/Practice_Advanced/Model/Indexing"
       Children:
       - Name: Kind
         Type: PropertyType
         DataType: NodeId
-        Value: {"IdType":0,"Id":0,"Namespace":-1}
       - Name: NodeClass
         Type: PropertyType
         DataType: NodePointerNodeClass
@@ -82,7 +77,6 @@ Children:
     Type: BaseDataVariableType
     DataType: Duration
     ReferenceType: HasProperty
-    Value: "0:00:00:0.0000000"
   - Name: DeltaObserverEnabled
     Type: BaseDataVariableType
     DataType: Boolean

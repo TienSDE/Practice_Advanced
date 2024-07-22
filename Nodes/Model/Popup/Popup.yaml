@@ -2,17 +2,13 @@ Name: Popup
 Type: FolderType
 Children:
 - Name: Variable1
-  Id: g=c0aeb928855502455c17938ee12d13d4
   Type: BaseDataVariableType
   DataType: Boolean
-  Value: false
 - Name: Variable2
   Id: g=f29a7b16853d0b490a114809054f8c25
   Type: BaseDataVariableType
   DataType: Int32
-  Value: 0
 - Name: Variable3
   Id: g=8bf656a217f350d5e1510910e0fcc014
   Type: BaseDataVariableType
   DataType: Int32
-  Value: 0

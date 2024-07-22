@@ -41,27 +41,23 @@ Children:
       Type: BaseDataVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 0.0
     - Name: HitTestVisible
       Type: BaseDataVariableType
       DataType: Boolean
       ModellingRule: Optional
-      Value: false
     - Name: Blink
       Type: BaseDataVariableType
       DataType: Boolean
       ModellingRule: Optional
-      Value: false
     - Name: MoveTarget
       Type: NodePointer
       DataType: NodeId
       ModellingRule: Optional
-      Value: {"IdType":0,"Id":0,"Namespace":-1}
       Children:
       - Name: Kind
         Type: PropertyType
         DataType: NodeId
-        Value: {"Id":71,"Namespace":3}
+        Value: "/Types/ObjectTypes/BaseObjectType/BaseUIObject/Item/Container"
       - Name: NodeClass
         Type: PropertyType
         DataType: NodePointerNodeClass
@@ -86,22 +82,18 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 0.0
     - Name: TopMargin
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 0.0
     - Name: RightMargin
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 0.0
     - Name: BottomMargin
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 0.0
     - Name: Width
       Type: BaseVariableType
       DataType: Size
@@ -126,19 +118,17 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 0.0
   - Name: Switch1
     Type: Switch
     Children:
     - Name: Checked
       Type: BaseDataVariableType
       DataType: Boolean
-      Value: false
       Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "{NodeId:ns=7;g=c0aeb928-8555-0245-5c17-938ee12d13d4}"
+        Value: "/Objects/Practice_Advanced/Model/Popup/Variable1"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -166,12 +156,11 @@ Children:
     - Name: Value
       Type: BaseDataVariableType
       DataType: Float
-      Value: 0.0
       Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "{NodeId:ns=7;g=8bf656a2-17f3-50d5-e151-0910e0fcc014}"
+        Value: "/Objects/Practice_Advanced/Model/Popup/Variable3"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -181,7 +170,6 @@ Children:
     - Name: MinValue
       Type: BaseDataVariableType
       DataType: Float
-      Value: 0.0
     - Name: MaxValue
       Type: BaseDataVariableType
       DataType: Float
@@ -214,12 +202,11 @@ Children:
     - Name: Value
       Type: BaseDataVariableType
       DataType: Float
-      Value: 0.0
       Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "{NodeId:ns=7;g=f29a7b16-853d-0b49-0a11-4809054f8c25}"
+        Value: "/Objects/Practice_Advanced/Model/Popup/Variable2"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -229,7 +216,6 @@ Children:
     - Name: MinValue
       Type: BaseDataVariableType
       DataType: Float
-      Value: 0.0
     - Name: MaxValue
       Type: BaseDataVariableType
       DataType: Float
@@ -262,12 +248,11 @@ Children:
     - Name: Text
       Type: BaseDataVariableType
       DataType: LocalizedText
-      Value: {"NamespaceIndex":-1,"LocaleId":"","Text":""}
       Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "{NodeId:ns=7;g=f29a7b16-853d-0b49-0a11-4809054f8c25}"
+        Value: "/Objects/Practice_Advanced/Model/Popup/Variable2"
     - Name: TopMargin
       Type: BaseVariableType
       DataType: Size
@@ -286,12 +271,11 @@ Children:
   - Name: MoveTarget
     Type: NodePointer
     DataType: NodeId
-    Value: {"IdType":0,"Id":0,"Namespace":-1}
     Children:
     - Name: Kind
       Type: PropertyType
       DataType: NodeId
-      Value: {"Id":71,"Namespace":3}
+      Value: "/Types/ObjectTypes/BaseObjectType/BaseUIObject/Item/Container"
     - Name: DynamicLink
       Type: DynamicLink
       DataType: NodePath
@@ -304,7 +288,7 @@ Children:
     - Name: DynamicLink
       Type: DynamicLink
       DataType: NodePath
-      Value: "{NodeId:ns=7;g=2721f46f-6de1-4729-b748-789daf3fbb64}"
+      Value: "/Objects/Practice_Advanced/Model/Animation/Variable2"
   - Name: TopMargin
     Type: BaseVariableType
     DataType: Size
@@ -313,4 +297,4 @@ Children:
     - Name: DynamicLink
       Type: DynamicLink
       DataType: NodePath
-      Value: "{NodeId:ns=7;g=3afc57ec-6edd-afb5-7aeb-21ff79f57e7b}"
+      Value: "/Objects/Practice_Advanced/Model/Animation/Variable3"
